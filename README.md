@@ -1,7 +1,7 @@
 # Function-visualizer
 The function Visualizer is a Unity-based application that enables users to visualize various mathematical functions in 3D space. The user has the flexibility to choose from a list of predefined functions or input their own custom function. Furthermore, the application provides a user-friendly camera control mechanism to rotate around the graph and zoom in/out for an enhanced visualization experience.
 
-#Use Cases
+# Use Cases
 The Graph Visualizer can be a powerful tool for a range of users:
 
 Educators: Use it as a teaching aid to help students visualize complex mathematical concepts.
@@ -49,7 +49,7 @@ A 3D geometrical shape that showcases how functions can be mapped along the surf
 
 
 
-#S phere: 
+# Sphere: 
 By mapping functions onto the surface of a sphere, this visualization gives a unique perspective on how waveforms can wrap around 3D objects.
 
 ![sphere](https://github.com/slbeggs/Function-visualizer/assets/101913063/f289e778-44af-45c1-af33-c25ca95c8e77)
@@ -69,7 +69,7 @@ https://github.com/slbeggs/Function-visualizer/assets/101913063/1800b47a-84f3-4c
 
 
 
-#Ripple: 
+# Ripple: 
 This function illustrates how waves can propagate across a surface, creating peaks and troughs in a 3D space.
 ![ripple](https://github.com/slbeggs/Function-visualizer/assets/101913063/590fe927-9ff3-4ae9-b875-58ec09af7e64)
 
@@ -77,7 +77,7 @@ This function illustrates how waves can propagate across a surface, creating pea
 https://github.com/slbeggs/Function-visualizer/assets/101913063/49d29cd7-597e-41ac-84e5-b613922e51ad
 
 
-Expanding Horizons
+# Expanding Horizons
 By allowing functions to be represented on these diverse surfaces, the Graph Visualizer broadens the horizons of mathematical visualization. Users can gain an intuitive understanding of mathematical concepts by seeing them come alive across different visual terrains. Whether you're exploring simple waveforms or intricate patterns, the Graph Visualizer offers a canvas that adapts to your needs.
 
 # How to Use
