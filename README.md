@@ -1,1 +1,51 @@
 # Function-visualizer
+The function Visualizer is a Unity-based application that enables users to visualize various mathematical functions in 3D space. The user has the flexibility to choose from a list of predefined functions or input their own custom function. Furthermore, the application provides a user-friendly camera control mechanism to rotate around the graph and zoom in/out for an enhanced visualization experience.
+
+#Use Cases
+The Graph Visualizer can be a powerful tool for a range of users:
+
+Educators: Use it as a teaching aid to help students visualize complex mathematical concepts.
+
+Students: Use it as a learning tool to better understand and explore mathematical functions.
+
+Researchers: Employ it as a quick visualization tool for exploring and understanding mathematical models and relationships.
+
+# Visualization of Functions: Diverse Surfaces
+The Graph Visualizer is not just limited to showcasing functions in standard graph formats. It offers a rich visual experience by representing functions across various types of surfaces. These representations can provide deep insights into the nature and interactions of mathematical functions:
+
+1D Surfaces
+The simplest representation is along a single dimension:
+
+Sine Function: A classic wave pattern along the X-axis, this representation showcases the regular oscillations of the sine wave.
+
+
+2D Surfaces
+The functions can be extended across two dimensions, creating patterns across a plane:
+
+2DSine: A combination of sine waves along both the x and z axes, this visualization produces a ripple-like "terrain" across a 3D plane, where the 'y' value changes based on the interaction of the sine functions from x and z.
+
+
+
+https://github.com/slbeggs/Function-visualizer/assets/101913063/7079e16f-6b8c-48f4-906e-14115c61cc51
+
+
+3D Surfaces
+For a more immersive visualization experience, the Graph Visualizer offers 3D structures:
+
+Cylinder: A 3D geometrical shape that showcases how functions can be mapped along the surface of cylinders.
+
+Sphere: By mapping functions onto the surface of a sphere, this visualization gives a unique perspective on how waveforms can wrap around 3D objects.
+
+Torus: A doughnut-shaped surface, the torus offers a more complex visualization terrain for functions, allowing users to see patterns and behaviors in a unique way.
+
+Ripple: This function illustrates how waves can propagate across a surface, creating peaks and troughs in a 3D space.
+
+Expanding Horizons
+By allowing functions to be represented on these diverse surfaces, the Graph Visualizer broadens the horizons of mathematical visualization. Users can gain an intuitive understanding of mathematical concepts by seeing them come alive across different visual terrains. Whether you're exploring simple waveforms or intricate patterns, the Graph Visualizer offers a canvas that adapts to your needs.
+
+# How to Use
+Start the application: Launch the Unity project and hit the Play button.
+Select a function: Use the GUI dropdown menu to select one of the predefined functions.
+Rotate the graph: Click and drag the mouse to rotate around the graph.
+Zoom: Use the mouse scroll wheel to get a closer view or to zoom out.
+Input custom function: (Provide steps on how users can input their custom function if implemented)
