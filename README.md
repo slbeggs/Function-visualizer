@@ -64,7 +64,7 @@ Beyond the predefined functions, Graph Visualizer stands out with its ability to
 - **Color Mapping**: Enhanced visuals using color mapping based on function values, gradients, or other parameters.
 
 ## How to Use
-1. Start the application: Launch the Unity project.
+1. Start the application: Launch the Unity project and hit the Play button.
 2. Select a function: Use the GUI dropdown menu to choose a function .
 3. Rotate & Zoom: Use the mouse to interact with the graph.
 Rotate the graph: Click and drag the mouse to rotate around the graph.
