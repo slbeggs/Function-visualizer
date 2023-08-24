@@ -26,10 +26,14 @@ A combination of multiple sine waves that vary in frequency and amplitude, offer
 #### 2DSine:
 A combination of sine waves along both the x and z axes, this visualization produces a ripple-like "terrain" across a 3D plane, where the 'y' value changes based on the interaction of the sine functions from x and z.
 ![sine2d](https://github.com/slbeggs/Function-visualizer/assets/101913063/2822deac-e88d-422c-9747-ed57455694b1)
-
+https://github.com/slbeggs/Function-visualizer/assets/101913063/7079e16f-6b8c-48f4-906e-14115c61cc51
 #### MultiSine2D:
 A fusion of multiple sine waves in two dimensions, this function creates intricate patterns and terrains, offering deeper insights into the interaction of waveforms.
 ![multisin2d](https://github.com/slbeggs/Function-visualizer/assets/101913063/ee8908be-6757-409c-bd62-fb5c52d8aaae)
+
+https://github.com/slbeggs/Function-visualizer/assets/101913063/6281484b-8437-4048-a1dd-96d8f9c7cf16
+
+https://github.com/slbeggs/Function-visualizer/assets/101913063/2f15fd0f-4eaf-4593-b2fa-d975ab22b9ad
 
 ### 3D Surfaces
 
@@ -40,15 +44,15 @@ A 3D geometrical shape that showcases how functions can be mapped along the surf
 #### Sphere:
 By mapping functions onto the surface of a sphere, this visualization gives a unique perspective on how waveforms can wrap around 3D objects.
 ![sphere](https://github.com/slbeggs/Function-visualizer/assets/101913063/f289e778-44af-45c1-af33-c25ca95c8e77)
-
+https://github.com/slbeggs/Function-visualizer/assets/101913063/4795c421-6322-4734-80a3-3b21e5276c17
 #### Torus:
 A doughnut-shaped surface, the torus offers a more complex visualization terrain for functions, allowing users to see patterns and behaviors in a unique way.
 ![Torus](https://github.com/slbeggs/Function-visualizer/assets/101913063/daa72dd9-fe09-4a31-b705-616a9c23c230)
-
+https://github.com/slbeggs/Function-visualizer/assets/101913063/1800b47a-84f3-4c8d-b789-920f81331c69
 #### Ripple:
 This function illustrates how waves can propagate across a surface, creating peaks and troughs in a 3D space.
 ![ripple](https://github.com/slbeggs/Function-visualizer/assets/101913063/590fe927-9ff3-4ae9-b875-58ec09af7e64)
-
+https://github.com/slbeggs/Function-visualizer/assets/101913063/49d29cd7-597e-41ac-84e5-b613922e51ad
 ## Custom Functions
 
 Beyond the predefined functions, Graph Visualizer stands out with its ability to allow users to input and visualize their custom functions:
