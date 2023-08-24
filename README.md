@@ -35,6 +35,7 @@ https://github.com/slbeggs/Function-visualizer/assets/101913063/7079e16f-6b8c-48
 # MultiSine2D:
 A fusion of multiple sine waves in two dimensions, this function creates intricate patterns and terrains, offering deeper insights into the interaction of waveforms.
 ![multisin2d](https://github.com/slbeggs/Function-visualizer/assets/101913063/ee8908be-6757-409c-bd62-fb5c52d8aaae)
+
 https://github.com/slbeggs/Function-visualizer/assets/101913063/6281484b-8437-4048-a1dd-96d8f9c7cf16
 
 https://github.com/slbeggs/Function-visualizer/assets/101913063/2f15fd0f-4eaf-4593-b2fa-d975ab22b9ad
