@@ -26,7 +26,14 @@ A combination of multiple sine waves that vary in frequency and amplitude, offer
 #### 2DSine:
 A combination of sine waves along both the x and z axes, this visualization produces a ripple-like "terrain" across a 3D plane, where the 'y' value changes based on the interaction of the sine functions from x and z.
 ![sine2d](https://github.com/slbeggs/Function-visualizer/assets/101913063/2822deac-e88d-422c-9747-ed57455694b1)
+
 https://github.com/slbeggs/Function-visualizer/assets/101913063/7079e16f-6b8c-48f4-906e-14115c61cc51
+
+
+
+
+
+
 #### MultiSine2D:
 A fusion of multiple sine waves in two dimensions, this function creates intricate patterns and terrains, offering deeper insights into the interaction of waveforms.
 ![multisin2d](https://github.com/slbeggs/Function-visualizer/assets/101913063/ee8908be-6757-409c-bd62-fb5c52d8aaae)
