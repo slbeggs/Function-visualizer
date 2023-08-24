@@ -53,7 +53,20 @@ https://github.com/slbeggs/Function-visualizer/assets/101913063/4795c421-6322-47
 #### Torus:
 A doughnut-shaped surface, the torus offers a more complex visualization terrain for functions, allowing users to see patterns and behaviors in a unique way.
 ![Torus](https://github.com/slbeggs/Function-visualizer/assets/101913063/daa72dd9-fe09-4a31-b705-616a9c23c230)
+
+
+
+
+
+
+
+
 https://github.com/slbeggs/Function-visualizer/assets/101913063/1800b47a-84f3-4c8d-b789-920f81331c69
+
+
+
+
+
 
 
 
