@@ -96,7 +96,7 @@ Color Mapping: The visualizations can be enhanced further using color mapping ba
 
 # How to Use
 Start the application: Launch the Unity project and hit the Play button.
-Select a function: Use the GUI dropdown menu to select one of the predefined functions.
+Select a function: Use the GUI dropdown menu to select one of the predefined functions or Input custom function.
 Rotate the graph: Click and drag the mouse to rotate around the graph.
 Zoom: Use the mouse scroll wheel to get a closer view or to zoom out.
-Input custom function: (Provide steps on how users can input their custom function if implemented)
+
