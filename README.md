@@ -74,7 +74,18 @@ https://github.com/slbeggs/Function-visualizer/assets/101913063/1800b47a-84f3-4c
 #### Ripple:
 This function illustrates how waves can propagate across a surface, creating peaks and troughs in a 3D space.
 ![ripple](https://github.com/slbeggs/Function-visualizer/assets/101913063/590fe927-9ff3-4ae9-b875-58ec09af7e64)
+
+
+
+
+
+
 https://github.com/slbeggs/Function-visualizer/assets/101913063/49d29cd7-597e-41ac-84e5-b613922e51ad
+
+
+
+
+
 ## Custom Functions
 
 Beyond the predefined functions, Graph Visualizer stands out with its ability to allow users to input and visualize their custom functions:
