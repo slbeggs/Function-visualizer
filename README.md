@@ -11,7 +11,7 @@ Students: Use it as a learning tool to better understand and explore mathematica
 Researchers: Employ it as a quick visualization tool for exploring and understanding mathematical models and relationships.
 
 # Visualization of Functions: Diverse Surfaces
-The Graph Visualizer is not just limited to showcasing functions in standard graph formats. It offers a rich visual experience by representing functions across various types of surfaces. These representations can provide deep insights into the nature and interactions of mathematical functions:
+The function  Visualizer is not just limited to showcasing functions in standard graph formats. It offers a rich visual experience by representing functions across various types of surfaces.Users can gain an intuitive understanding of mathematical concepts by seeing them come alive across different visual terrains. These representations can provide deep insights into the nature and interactions of mathematical functions.  Whether you're exploring simple waveforms or intricate patterns, the Graph Visualizer offers a canvas that adapts to your needs.
 
 # 1D Surfaces
 The simplest representation is along a single dimension:
@@ -75,10 +75,23 @@ This function illustrates how waves can propagate across a surface, creating pea
 
 
 https://github.com/slbeggs/Function-visualizer/assets/101913063/49d29cd7-597e-41ac-84e5-b613922e51ad
+# Custom Functions
+Beyond the predefined functions, Graph Visualizer stands out with its ability to allow users to input and visualize their custom functions:
 
+Flexible Input: Users can input their mathematical functions using standard mathematical notation, making it easy to translate mathematical ideas into visual forms.
 
-# Expanding Horizons
-By allowing functions to be represented on these diverse surfaces, the Graph Visualizer broadens the horizons of mathematical visualization. Users can gain an intuitive understanding of mathematical concepts by seeing them come alive across different visual terrains. Whether you're exploring simple waveforms or intricate patterns, the Graph Visualizer offers a canvas that adapts to your needs.
+Error Handling: The system checks for errors in the user's input, ensuring that only valid functions are plotted.
+
+Dynamic Visualization: As users input their function, the Graph Visualizer dynamically updates the visual representation, providing instant feedback and making the exploration of functions a fluid experience.
+
+# Interaction and Exploration
+The Graph Visualizer isn't just about passive observation. It's an interactive tool that allows users to:
+
+Rotate and Zoom: Users can rotate the visualization in 3D space to view it from different angles, and zoom in or out to focus on specific details or to get a broader overview.
+
+Time Evolution: Some functions are time-dependent. With Graph Visualizer, these functions come alive, evolving over time and showcasing dynamic patterns and behaviors.
+
+Color Mapping: The visualizations can be enhanced further using color mapping based on function values, gradients, or other parameters. This not only makes the visuals more appealing but can also provide deeper insights into the nature and behavior of functions
 
 # How to Use
 Start the application: Launch the Unity project and hit the Play button.
