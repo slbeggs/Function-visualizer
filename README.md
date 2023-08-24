@@ -54,6 +54,10 @@ https://github.com/slbeggs/Function-visualizer/assets/101913063/4795c421-6322-47
 A doughnut-shaped surface, the torus offers a more complex visualization terrain for functions, allowing users to see patterns and behaviors in a unique way.
 ![Torus](https://github.com/slbeggs/Function-visualizer/assets/101913063/daa72dd9-fe09-4a31-b705-616a9c23c230)
 https://github.com/slbeggs/Function-visualizer/assets/101913063/1800b47a-84f3-4c8d-b789-920f81331c69
+
+
+
+
 #### Ripple:
 This function illustrates how waves can propagate across a surface, creating peaks and troughs in a 3D space.
 ![ripple](https://github.com/slbeggs/Function-visualizer/assets/101913063/590fe927-9ff3-4ae9-b875-58ec09af7e64)
