@@ -86,6 +86,17 @@ https://github.com/slbeggs/Function-visualizer/assets/101913063/49d29cd7-597e-41
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ## Custom Functions
 
 Beyond the predefined functions, Graph Visualizer stands out with its ability to allow users to input and visualize their custom functions:
