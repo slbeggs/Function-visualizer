@@ -17,6 +17,14 @@ The function Visualizer is not just limited to showcasing functions in standard 
 A classic wave pattern along the X-axis, this representation showcases the regular oscillations of the sine wave.
 ![sin](https://github.com/slbeggs/Function-visualizer/assets/101913063/1614326b-5f5a-4488-9fff-2bbd0ec510b1)
 
+
+https://github.com/slbeggs/Function-visualizer/assets/101913063/7079e16f-6b8c-48f4-906e-14115c61cc51
+
+
+
+
+
+
 #### MultiSine Function:
 A combination of multiple sine waves that vary in frequency and amplitude, offering a richer, more intricate wave pattern than the standard sine.
 ![multi sin](https://github.com/slbeggs/Function-visualizer/assets/101913063/22ea6e01-af2d-49b8-8f2a-f64cae259229)
@@ -27,7 +35,7 @@ A combination of multiple sine waves that vary in frequency and amplitude, offer
 A combination of sine waves along both the x and z axes, this visualization produces a ripple-like "terrain" across a 3D plane, where the 'y' value changes based on the interaction of the sine functions from x and z.
 ![sine2d](https://github.com/slbeggs/Function-visualizer/assets/101913063/2822deac-e88d-422c-9747-ed57455694b1)
 
-https://github.com/slbeggs/Function-visualizer/assets/101913063/7079e16f-6b8c-48f4-906e-14115c61cc51
+
 
 
 
