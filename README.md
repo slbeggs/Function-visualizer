@@ -44,6 +44,7 @@ A 3D geometrical shape that showcases how functions can be mapped along the surf
 #### Sphere:
 By mapping functions onto the surface of a sphere, this visualization gives a unique perspective on how waveforms can wrap around 3D objects.
 ![sphere](https://github.com/slbeggs/Function-visualizer/assets/101913063/f289e778-44af-45c1-af33-c25ca95c8e77)
+
 https://github.com/slbeggs/Function-visualizer/assets/101913063/4795c421-6322-4734-80a3-3b21e5276c17
 #### Torus:
 A doughnut-shaped surface, the torus offers a more complex visualization terrain for functions, allowing users to see patterns and behaviors in a unique way.
